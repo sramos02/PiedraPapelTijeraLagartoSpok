@@ -1,0 +1,16 @@
+
+Las reglas de este juego son muy parecidas al Piedra Papel Tijeras convencional:
+    - Tijeras ganan papel     (Lo cortan)
+    - Papel gana piedra       (La envuelve)
+    - Piedra gana lagarto     (Lo aplasta) 
+    - Lagarto gana Spok       (Lo envenena)
+    - Spok gana tijetas       (Las rompe)
+    - Tijeras ganan a Lagarto (Lo decapitan)
+    - Lagarto gana a papel    (Lo devora)
+    - Papel gana a Spok       (Lo desautoriza)
+    - Spok gana a piedra      (La vaporiza)
+    - Pidra gana tijeras      (Las aplasta)
+    - Elementos iguales producen un empate
+    
+XXX
+
